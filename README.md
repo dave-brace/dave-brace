@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dave-brace
-- 👀 I’m interested in Data systems
+- 👀 I’m interested in All things Data
 - 🌱 I’m currently learning CRSPR
 - 💞️ I’m collaborating on OpenEBS
 - 📫 How to reach me david.brace at datacore
